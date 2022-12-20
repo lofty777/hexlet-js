@@ -11,10 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/lofty777/hexlet-js.git"
   },
-  "author": "Lofty88",
+  "author": "lofty88",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lofty777/hexlet-js/issues"
+    "url": "https://github.com/lofty777/hexlet-js/issues",
+    "email": "meshkov88@gmail.com"
   },
   "homepage": "https://github.com/lofty777/hexlet-js#readme"
 }
