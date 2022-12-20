@@ -17,5 +17,12 @@
     "url": "https://github.com/lofty777/hexlet-js/issues",
     "email": "meshkov88@gmail.com"
   },
-  "homepage": "https://github.com/lofty777/hexlet-js#readme"
+  "homepage": "https://github.com/lofty777/hexlet-js#readme",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "prettier": "^2.8.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
